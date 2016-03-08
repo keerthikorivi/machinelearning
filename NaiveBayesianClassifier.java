@@ -1,6 +1,5 @@
 /**
  * @author keerthikorivi
- * Reference Link: http://ebiquity.umbc.edu/blogger/2010/12/07/naive-bayes-classifier-in-50-lines/
  * 
  */
 import java.io.BufferedReader;
